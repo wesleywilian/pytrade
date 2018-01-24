@@ -1,14 +1,15 @@
 # PyTrade
 
-> [Readme in English](http://github.com)
+> [Readme in English](README.md)
 
-> [Readme em Português](http://github.com)
+
+> [Readme em Português](README_PT-BR.md)
 
 ### Introdução
-PyTrade é um projeto no contexto de criptomoedas, mostra oportunidades de lucro apresentando oportunidades de execução de "arbitragem".
+PyTrade is a project in the context of cryptocurrency, it shows opportunities of profit presenting opportunities of execution of "arbitrage".
 
 ### Arbitragem
-No contexto de criptomoedas, arbitragem significa a execução de ordens como a compra de determinada criptomoeda na exchange A, a transferencia  para a exchange B, logo a venda da criptomoeda na exchange B. O objetivo é obtenção de lucro a partir da diferença de preços.
+In the context of cryptocurrencies, arbitrage means the execution of orders such as the purchase of a certain crypto currency in exchange A, then the transfer to exchange B, so the crypto currency is sold in exchange B. The objective is to obtain profit from the price difference.
 
 ### Exchanges
 - Poloniex
@@ -17,11 +18,11 @@ No contexto de criptomoedas, arbitragem significa a execução de ordens como a 
 - Bitstamp
 
 ### Sobre
-PyTrade conecta na API das exchanges, verifica os preços, realiza a interação entre outras exchanges e exibe na tela a diferença de preços, sem considerar eventuais taxas de transferencia e de negociação das exchanges.
+PyTrade connects to the exchanges' APIs, verifies prices, compares the price of the crypto-currency with other exchanges and displays the price difference, disregarding any transaction negotiation fees.
 
 ### Requerimentos
 - Python 3.5
-- Conexão com a internet
+- Connection with the internet
 
 ### TODO
-Este é um projeto simples em seu estado atual, executa seu objetivo, entretanto não possui recursos avançados, não lida com exceções e não possui checagens de erro.
+This is a simple project in its current state, it performs its purpose, however it does not have advanced features, it does not handle exceptions and it does not have error checks.
