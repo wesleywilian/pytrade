@@ -26,3 +26,6 @@ PyTrade connects to the exchanges' APIs, verifies prices, compares the price of 
 
 ### TODO
 This is a simple project in its current state, it performs its purpose, however it does not have advanced features, it does not handle exceptions and it does not have error checks.
+
+
+![Demo](assets/demo.gif)

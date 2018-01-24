@@ -26,3 +26,6 @@ PyTrade conecta na API das exchanges, verifica os preços, realiza a interação
 
 ### TODO
 Este é um projeto simples em seu estado atual, executa seu objetivo, entretanto não possui recursos avançados, não lida com exceções e não possui checagens de erro.
+
+
+![Demo](assets/demo.gif)
